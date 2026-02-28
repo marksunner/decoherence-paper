@@ -20,7 +20,7 @@ This paper explores a speculative framework in which spacetime structure emerges
 
 This paper was written as an intellectual exercise, exploring ideas at the intersection of quantum foundations, decoherence theory, and emergent spacetime. 
 
-While the paper was originally drafted with the intention of posting as a preprint, it ultimately served as a conceptual laboratory — a space to work through ideas that later found expression in other forms, including the hard science fiction novel [Aporia](https://github.com/marksunner/aporia).
+While the paper was originally drafted with the intention of posting as a preprint, this first incarnation was never submitted because it is too tautological - instead it ultimately served as a conceptual laboratory — a space to work through ideas that later found expression in other forms, including my hard science fiction novel [Aporia](https://github.com/marksunner/aporia).
 
 The visualisation code used to generate the 2D figures is available in the companion repository [decoherence-figures](https://github.com/marksunner/decoherence-figures).
 
