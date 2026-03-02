@@ -10,12 +10,6 @@
 
 **[Download PDF](./Decoherence%20v1.0.pdf)** — Spacetime from Quantum Decoherence (v1.0)
 
----
-
-## Abstract
-
-This paper explores a speculative framework in which spacetime structure emerges from quantum decoherence processes. Rather than treating spacetime as fundamental, we consider it as an effective description arising from the progressive entanglement of quantum systems with their environment.
-
 ## About This Work
 
 This paper was written as an intellectual exercise, exploring ideas at the intersection of quantum foundations, decoherence theory, and emergent spacetime. 
@@ -32,6 +26,12 @@ The visualisation code used to generate the 2D figures is available in the compa
 ## Status
 
 This is an exploratory paper, not a peer-reviewed publication. It represents the author's attempt to think rigorously about speculative ideas. Corrections, critiques, and conversations are welcome.
+
+## What's Next
+
+I'm aware this paper's central limitation — the circularity between how curvature is defined and how it's recovered — means the current 2D model proves less than it appears to. A meaningful next step would be a 3+1D toy model with an independently defined curvature target, where the decoherence-to-geometry mapping would have to earn its predictive power rather than inherit it from the setup.
+
+That's a substantially harder problem, and one that likely exceeds what I can do working alone. If you're a physicist or mathematician interested in collaborating on a more rigorous version of these ideas — or in telling me precisely where they break — I'd very much welcome the conversation.
 
 ---
 
