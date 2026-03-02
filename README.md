@@ -29,7 +29,7 @@ This is an exploratory paper, not a peer-reviewed publication. It represents my 
 
 ## What's Next
 
-I'm aware this paper's central limitation — the circularity between how curvature is defined and how it's recovered — means the current 2D model proves less than it appears to. A meaningful next step would be a 3+1D toy model with an independently defined curvature target, where the decoherence-to-geometry mapping would have to earn its predictive power rather than inherit it from the setup.
+I'm aware this paper's central limitation — the circularity between how curvature is defined and how it's recovered means the current 2D model proves less than it appears to. A meaningful next step would be a 3+1D toy model with an independently defined curvature target, where the decoherence-to-geometry mapping would have to earn its predictive power rather than inherit it from the setup.
 
 That's a substantially harder problem, and one that likely exceeds what I can do working alone. If you're a physicist or mathematician interested in collaborating on a more rigorous version of these ideas — or in telling me precisely where they break — I'd very much welcome the conversation.
 
