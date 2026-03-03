@@ -29,7 +29,7 @@ I'm sharing it because I found the exercise valuable, and because someone smart 
 
 A meaningful next step would be a 3+1D toy model with an independently defined curvature target, where the decoherence-to-geometry mapping would have to earn its predictive power rather than inherit it from the setup.
 
-That's a substantially harder problem, and one that likely exceeds what I can do working alone. If you're a physicist or mathematician interested in collaborating on a more rigorous version of these ideas — or in telling me precisely where they break — I'd very much welcome the conversation.
+That's a substantially harder problem, and one that exceeds what I can do working alone. If you're a physicist or mathematician interested in collaborating on a more rigorous version of these ideas — or in telling me precisely where they break — I'd very much welcome the conversation.
 
 ---
 
