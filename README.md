@@ -18,7 +18,7 @@ I wanted to explore what it might look like if spacetime structure emerged from 
 
 The paper was never intended for peer review because of it's obvious limitations. Instead, it served as a conceptual laboratory — a space to work through ideas that are the worldbuilding ice berg beneath my science fiction novel [Aporia](https://github.com/marksunner/aporia).
 
-I'm sharing it because I found the exercise valuable, and because someone much smarter might see something I missed — or tell me exactly where it breaks.
+I'm sharing it because I found the exercise valuable, and because someone smarter that me might see something I missed — or tell me exactly where it breaks.
 
 ## Companion Materials
 
