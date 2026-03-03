@@ -16,9 +16,9 @@
 
 I wanted to explore what it might look like if spacetime structure emerged from quantum decoherence processes. The result is a toy 2D model that helped me think through the ideas — but the model is fundamentally circular (the curvature definition and recovery are the same thing), so it proves far less than it might appear to.
 
-The paper was never submitted for peer review because of this limitation. Instead, it served as a conceptual laboratory — a space to work through ideas that later found expression in my hard science fiction novel [Aporia](https://github.com/marksunner/aporia).
+The paper was never intended for peer review because of it's obvious limitations. Instead, it served as a conceptual laboratory — a space to work through ideas that are the worldbuilding ice berg beneath my science fiction novel [Aporia](https://github.com/marksunner/aporia).
 
-I'm sharing it because I found the exercise valuable, and because someone smarter might see something I missed — or tell me exactly where it breaks.
+I'm sharing it because I found the exercise valuable, and because someone much smarter might see something I missed — or tell me exactly where it breaks.
 
 ## Companion Materials
 
