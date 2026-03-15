@@ -22,6 +22,7 @@ I'm sharing it because I found the exercise valuable, and because someone smart 
 
 ## Companion Materials
 
+- **AI-assisted review:** [Can AI Tell Me If My Physics Is Wrong?](./AI-ASSISTED-REVIEW.md) — What happened when I let autonomous AI agents stress-test this paper
 - **Figure generation code:** [github.com/marksunner/decoherence-figures](https://github.com/marksunner/decoherence-figures)
 - **Fictional exploration of these themes:** [Aporia](https://github.com/marksunner/aporia)
 
