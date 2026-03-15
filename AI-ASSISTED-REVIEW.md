@@ -8,7 +8,7 @@ Last May, I wrote a speculative physics paper. Not for publication — I knew fr
 
 I built a toy model. A 2D spin lattice where a five-term mathematical operator maps decoherence rates to curvature with 99% accuracy. Gravitational-wave-like perturbations emerged naturally. But I knew the geometry was baked in — the model was a scaffold, not a proof. The kind of thing you build so that one day, if you can find someone clever enough to help construct a non-tautological version, you have something to point at and say: *this is what I'm trying to do*.
 
-I'm not a professional physicist. I'm a technologist with a hunch and a Python script. So the paper went in a drawer.
+I'm not a professional physicist. I'm a fossilised geek with a hunch and a Python script. So the paper went in a drawer.
 
 This morning, I took it back out — and let two AI agents tear it apart.
 
