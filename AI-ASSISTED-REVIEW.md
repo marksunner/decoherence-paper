@@ -4,7 +4,7 @@
 
 ---
 
-Last May, I wrote a speculative physics paper. Not for publication — I knew from the start it was massively tautological. The thesis: spacetime itself — not just gravity, but the fabric of reality we perceive — might not be fundamental. It might emerge from quantum decoherence, the process by which quantum systems leak information into their environment. I've always felt there's far more to reality than what we can perceive, and I enjoy probing the edges of that idea — trying to imagine what's behind the curtain, the substrate from which our version of reality is emergent.
+Last May, I wrote a speculative physics paper. Not for publication — I knew from the start it was massively tautological. The thesis: spacetime itself (not just gravity, but the fabric of reality we perceive) might not be fundamental. It might emerge from quantum decoherence, the process by which quantum systems leak information into their environment. I've always felt there's far more to reality than what we can perceive, and I enjoy probing the edges of that idea — trying to imagine what's behind the curtain, the substrate from which our version of reality is emergent.
 
 I built a toy model. A 2D spin lattice where a five-term mathematical operator maps decoherence rates to curvature with 99% accuracy. Gravitational-wave-like perturbations emerged naturally. But I knew the geometry was baked in — the model was a scaffold, not a proof. The kind of thing you build so that one day, if you can find someone clever enough to help construct a non-tautological version, you have something to point at and say: *this is what I'm trying to do*.
 
