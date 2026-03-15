@@ -4,11 +4,11 @@
 
 ---
 
-Last May, I published a speculative physics paper. The thesis: spacetime curvature — the thing that *is* gravity — might not be fundamental. It might emerge from quantum decoherence, the process by which quantum systems leak information into their environment. I built a toy model, a 2D spin lattice, and showed that a five-term mathematical operator could map decoherence rates to curvature with 99% accuracy. Gravitational-wave-like perturbations emerged naturally.
+Last May, I wrote a speculative physics paper. Not for publication — I knew from the start it was massively tautological. The thesis: spacetime itself — not just gravity, but the fabric of reality we perceive — might not be fundamental. It might emerge from quantum decoherence, the process by which quantum systems leak information into their environment. I've always felt there's far more to reality than what we can perceive, and I enjoy probing the edges of that idea — trying to imagine what's behind the curtain, the substrate from which our version of reality is emergent.
 
-It was a proof of concept. I was honest about its limitations — 2D, static, dimensionless units, no claim to be General Relativity. I'm not a professional physicist. I'm a technologist with a hunch and a Python script.
+I built a toy model. A 2D spin lattice where a five-term mathematical operator maps decoherence rates to curvature with 99% accuracy. Gravitational-wave-like perturbations emerged naturally. But I knew the geometry was baked in — the model was a scaffold, not a proof. The kind of thing you build so that one day, if you can find someone clever enough to help construct a non-tautological version, you have something to point at and say: *this is what I'm trying to do*.
 
-And then I put it in a drawer.
+I'm not a professional physicist. I'm a technologist with a hunch and a Python script. So the paper went in a drawer.
 
 This morning, I took it back out — and let two AI agents tear it apart.
 
